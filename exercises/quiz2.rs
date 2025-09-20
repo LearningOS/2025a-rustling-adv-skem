@@ -23,6 +23,8 @@
 
 
 pub enum Command {
+
+    
     Uppercase,
     Trim,
     Append(usize),
